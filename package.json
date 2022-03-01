@@ -1,0 +1,25 @@
+{
+  "name": "oeis_sequences",
+  "version": "0.0.1",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "test": "xo && ava",
+    "prettier": "prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmeline/oeis_sequences.git"
+  },
+  "author": "jmeline",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmeline/oeis_sequences/issues"
+  },
+  "homepage": "https://github.com/jmeline/oeis_sequences#readme",
+  "devDependencies": {
+    "ava": "^4.0.1",
+    "prettier": "2.5.1",
+    "xo": "^0.48.0"
+  }
+}
